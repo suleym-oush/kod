@@ -1,0 +1,192 @@
+header {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 1200px;
+    max-height: 112px;
+}
+
+.nav_ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+
+
+.footer_nav {
+    display: flex;
+
+
+}
+
+.footer_ul {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li {
+    list-style-type: none;
+    padding-top: 15px;
+
+}
+
+.foot_h2 {
+    margin-left: 40px;
+}
+
+footer {
+    margin-bottom: 100px;
+}
+
+hr {
+    margin: 50px auto;
+}
+
+.transform {
+    display: flex;
+    justify-content: center;
+    max-width: 100px;
+    text-decoration: none;
+    color: black;
+    transition: 1s;
+    height: 128px;
+    padding: 0 22px;
+}
+
+.transform:hover {
+    background-color: blue;
+    color: white;
+
+
+    text-align: center;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.transform a:hover {
+    color: white;
+}
+
+h1 {
+    font-family: 'Jura', sans-serif;
+
+}
+
+
+.searcher {
+    padding: 0;
+}
+
+.str {
+    font-weight: bold;
+    color: black;
+}
+
+.main_block {
+    display: flex;
+    justify-content: space-between;
+    max-height: 676px;
+    background-color: #5667FF;
+    margin-bottom: 100px;
+
+}
+
+.main_header {
+
+    min-width: 600px;
+}
+
+.main_text {
+    height: 132px;
+    width: 470px;
+    left: 200px;
+    top: 254px;
+    padding-top: 150px;
+    padding-left: 200px;
+
+
+
+}
+
+p {
+    padding-top: 30px;
+    color: white;
+    font-family: inter;
+}
+
+h1 {
+    font-family: jura;
+    color: white;
+}
+
+.cards_1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards_2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.info_card {
+    display: flex;
+    flex-direction: column;
+
+}
+
+span {
+    margin-top: 5px;
+}
+
+.name {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.job {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8E8E8E;
+}
+
+.main_h1 {
+    color: black;
+}
+
+.cards {
+    margin-bottom: 100px;
+}
+
+.adres {
+    width: 250px;
+}
+
+.adres2 {
+    margin-left: 150px;
+}
